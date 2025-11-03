@@ -6,28 +6,20 @@ class Solution {
         }
         int count = 0;
         int k = 0;
-        while (count < newarr[0]) {
-            nums[k] = 0;
-            count++;
-            k++;
-        }
-        count = 0;
-        while (count < newarr[1]) {
-            nums[k] = 1;
-            count++;
-            k++;
+        for (int i = 0; i < 3; i++) {
 
+            while (count < newarr[i]) {
+                nums[k] = i;
+                count++;
+                k++;
+            }
+            count = 0;
         }
-        count = 0;
-        while (count < newarr[2]) {
-            nums[k] = 2;
-            count++;
-            k++;
-        }
+
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + " ");
         }
-
+               
         
     }
 }
