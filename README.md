@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Subir-Chanda/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Subir-Chanda/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Subir-Chanda/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Subir-Chanda/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subir-Chanda/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Subir-Chanda/leetcode/tree/master/0217-contains-duplicate) |
+| [3227-find-missing-and-repeated-values](https://github.com/Subir-Chanda/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Subir-Chanda/leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Subir-Chanda/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Subir-Chanda/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
