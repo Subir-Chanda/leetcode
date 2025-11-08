@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subir-Chanda/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Subir-Chanda/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Subir-Chanda/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Subir-Chanda/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subir-Chanda/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Subir-Chanda/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Subir-Chanda/leetcode/tree/master/0075-sort-colors) |
 ## Math
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Subir-Chanda/leetcode/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Subir-Chanda/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
